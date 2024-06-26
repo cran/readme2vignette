@@ -1,0 +1,15 @@
+b1852bc879a31dd96e674716ef634bb4 *DESCRIPTION
+44df4a4921f51f5d06a6dafdc41e7626 *LICENSE
+8aac59db58f918e915a754917f75931b *NAMESPACE
+eae5bad65745a26123e8a3092e7b030c *NEWS.md
+5f90ad560e91a613e079fc9308d0c6d5 *R/add_readme_vignette.R
+fc897d20942b4bca4c6e7a0d706a2275 *R/install_cran_with_readme.R
+350751bb656787124db08d227728176e *R/install_github_with_readme.R
+1bf4c2a363df55fc630e16e7c65dfd7b *R/install_remote.R
+dc82ab806bb6c03934e38353496f7479 *R/readme2vignette-package.R
+ed74e4cacd81e726541549082183e7f6 *README.md
+c4759c684a3498518a880fdcbcea8e21 *inst/templates/readme2vignette-template.Rmd
+d11822a90cd33bee79ca4a0ef9bb5917 *man/add_readme_to_vignette.Rd
+493850b79cc1c58a5a411bfbd198af02 *man/install_cran_with_readme.Rd
+3413dc9e54b5e75b37bd111cc81541c8 *man/install_github_with_readme.Rd
+53185e9dc0ad7c8a014569bb279f0364 *man/readme2vignette-package.Rd
